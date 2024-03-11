@@ -1,0 +1,22 @@
+{
+  "name": "browsdetectiar",
+  "version": "1.0.0",
+  "description": "detect browser used by user, display the browser version and user agent information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szzin20/browser-detector.git"
+  },
+  "keywords": [
+    "browsdetect"
+  ],
+  "author": "szzin20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szzin20/browser-detector/issues"
+  },
+  "homepage": "https://github.com/szzin20/browser-detector#readme"
+}
